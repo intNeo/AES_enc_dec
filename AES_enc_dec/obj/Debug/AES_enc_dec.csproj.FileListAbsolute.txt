@@ -1,0 +1,7 @@
+C:\Users\IDE\source\repos\AES_enc_dec\AES_enc_dec\bin\Debug\AES_enc_dec.exe.config
+C:\Users\IDE\source\repos\AES_enc_dec\AES_enc_dec\bin\Debug\AES_enc_dec.exe
+C:\Users\IDE\source\repos\AES_enc_dec\AES_enc_dec\bin\Debug\AES_enc_dec.pdb
+C:\Users\IDE\source\repos\AES_enc_dec\AES_enc_dec\obj\Debug\AES_enc_dec.csproj.AssemblyReference.cache
+C:\Users\IDE\source\repos\AES_enc_dec\AES_enc_dec\obj\Debug\AES_enc_dec.csproj.CoreCompileInputs.cache
+C:\Users\IDE\source\repos\AES_enc_dec\AES_enc_dec\obj\Debug\AES_enc_dec.exe
+C:\Users\IDE\source\repos\AES_enc_dec\AES_enc_dec\obj\Debug\AES_enc_dec.pdb
